@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "656460175194",
+    "project_id": "chatbox-2ea92",
+    "storage_bucket": "chatbox-2ea92.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:656460175194:android:435b4f3003efdbe1014563",
+        "android_client_info": {
+          "package_name": "com.example.flutter_chat_project"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD7sDghbG_w0eGXDgbiKFizqxr7nSobsNE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
